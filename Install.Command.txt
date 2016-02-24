@@ -1,0 +1,15 @@
+1-extract Huawei Data Card Driver.
+2-past the driver file on home directory.
+
+Run the folling command.
+
+1=> sudo apt-get install usb-modeswitch
+2=> cd home/driver
+3=> sudo chmod 777 install
+4=> sudo ./install
+
+# Now the Driver is installed.
+
+Create Mobile Broad Band on Edit connection.
+
+-End-
