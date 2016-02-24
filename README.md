@@ -11,6 +11,7 @@ $ sudo apt-get install usb-modeswitch
 $ cd home/driver
 $ sudo chmod 777 install
 $ sudo ./install
+</pre>
 
 # Now the Driver is installed.
 
